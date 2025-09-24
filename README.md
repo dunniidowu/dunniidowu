@@ -1,4 +1,4 @@
-# Hi, I'm Oludunni Idowu 👋
+# Hi, I'm Dunni 👋
 
 Welcome to my GitHub!  
 I'm currently a **senior at Strathcona Christian Academy Secondary** with a passion for coding, creativity, and continuous learning.
