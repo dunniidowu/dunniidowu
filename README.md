@@ -16,10 +16,8 @@ I'm currently a **senior at Strathcona Christian Academy Secondary** with a pass
 
 ## 🌟 Projects
 
-- [WISEST Summer Project](https://github.com/dunnidowu/WISEST-Summer-Project) – My favorite project, representing my work and growth in tech
+- [WISEST Summer Project](https://github.com/dunnidowu/WISEST-Summer-Project)
 - [Accounting Chatbot](https://github.com/dunnidowu/Accounting-Chatbot)
-- [me50/dunnidowu](https://github.com/me50/dunnidowu)
-- [code50/201859787](https://github.com/code50/201859787)
 
 ---
 
